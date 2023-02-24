@@ -1,0 +1,382 @@
+[
+	{
+		"concessao": "LTT",
+		"nome": "LT 500KV EMBO/UHNP C2",
+		"subestacao_A": "SE EMBO",
+		"subestacao_B": "SE UHNP",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2533,
+		"ponto_potencia_A": "LTTEB_LTEBNP_UCZ_MW",
+		"ponto_potencia_B": "LTTNP_LTNPEB_UCZ_MW"
+	},
+	{
+		"concessao": "LTT",
+		"nome": "LT 500KV USIM/UHNP",
+		"subestacao_A": "SE USIM",
+		"subestacao_B": "SE UHNP",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2533,
+		"ponto_potencia_A": "LTTIM_LTIMNP_UC1_MW",
+		"ponto_potencia_B": "LTTNP_LTNPIM_UCZ_MW"
+	},
+	{
+		"concessao": "LTT",
+		"nome": "LT 500KV UHNP/ES",
+		"subestacao_A": "SE UHNP",
+		"subestacao_B": "SE ES",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2533,
+		"ponto_potencia_A": "LTTNP_LTNPES_UCZ_MW",
+		"ponto_potencia_B": "LTTES_LTESNP_UCX_MW"
+	},
+	{
+		"concessao": "LTT",
+		"nome": "LT 500KV UHNP/SGTD",
+		"subestacao_A": "SE UHNP",
+		"subestacao_B": "SE SGTD",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2533,
+		"ponto_potencia_A": "LTTNP_LTNPSG_UCX_MW",
+		"ponto_potencia_B": "LTTSG_LTSGNP_UCZ_MW"
+	},
+	{
+		"concessao": "LTT",
+		"nome": "LT 500KV SGTD/BDPT C2",
+		"subestacao_A": "SE SGTD",
+		"subestacao_B": "SE BDPT",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2533,
+		"ponto_potencia_A": "LTTSG_LTSGBD_UCX_MW",
+		"ponto_potencia_B": "LTTBD_LTBDSG_UCZ_MW"
+	},
+	{
+		"concessao": "CANTE",
+		"nome": "LT 500KV ES/FD C1",
+		"subestacao_A": "SE ES",
+		"subestacao_B": "SE FD",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2944,
+		"ponto_potencia_A": "CATES_9LTFD1_MW",
+		"ponto_potencia_B": "CATFD_9LTES1_MW"
+	},
+	{
+		"concessao": "CANTE",
+		"nome": "LT 500KV ES/FD C2",
+		"subestacao_A": "SE ES",
+		"subestacao_B": "SE FD",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2944,
+		"ponto_potencia_A": "CATES_9LTFD2_MW",
+		"ponto_potencia_B": "CATFD_9LTES2_MW"
+	},
+	{
+		"concessao": "IMTE",
+		"nome": "LT 500KV AÇ/MR",
+		"subestacao_A": "SE AÇ",
+		"subestacao_B": "SE MR",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 3936,
+		"ponto_potencia_A": "IMTAC_9LTMR1_MW",
+		"ponto_potencia_B": "IMTMR_9LTAC1_MW"
+	},
+	{
+		"concessao": "VCTE",
+		"nome": "LT 500KV TC/VC C3",
+		"subestacao_A": "SE TC",
+		"subestacao_B": "SE VC",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2425,
+		"ponto_potencia_A": "VCTTC_9LTVC3_MW",
+		"ponto_potencia_B": "VCTVC_9LTTC3_MW"
+	},
+	{
+		"concessao": "ENTE",
+		"nome": "LT 230KV MR/ENO",
+		"subestacao_A": "SE MR",
+		"subestacao_B": "SE ENO",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 255,
+		"ponto_potencia_A": "ENTMR_7LTENO_MW",
+		"ponto_potencia_B": "ENTEN_7LTMR1_MW"
+	},
+	{
+		"concessao": "LTC",
+		"nome": "LT 230KV ANA/COR2 C1",
+		"subestacao_A": "SE ANA",
+		"subestacao_B": "SE COR2",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 649,
+		"ponto_potencia_A": "LTCAN_7LTCO1_MW",
+		"ponto_potencia_B": "LTCCO_7LTAN1_MW"
+	},
+	{
+		"concessao": "LTC",
+		"nome": "LT 230KV ANA/COR2 C2",
+		"subestacao_A": "SE ANA",
+		"subestacao_B": "SE COR2",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 649,
+		"ponto_potencia_A": "LTCAN_7LTCO2_MW",
+		"ponto_potencia_B": "LTCCO_7LTAN2_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 230KV SI2/ANA",
+		"subestacao_A": "SE SI2",
+		"subestacao_B": "SE ANA",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 558,
+		"ponto_potencia_A": "BTESI_LTANA_MW",
+		"ponto_potencia_B": "BTEAN_LTSID_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 230KV SI2/IMB",
+		"subestacao_A": "SE SI2",
+		"subestacao_B": "SE IMB",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 558,
+		"ponto_potencia_A": "BTESI_LTIMB_MW",
+		"ponto_potencia_B": "BTEIB_LTSID_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 230KV IMB/CGT",
+		"subestacao_A": "SE IMB",
+		"subestacao_B": "SE CGT",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 645,
+		"ponto_potencia_A": "BTEIB_LTCG2_MW",
+		"ponto_potencia_B": "BTECG_LTIMB_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 230KV CGT/CHP",
+		"subestacao_A": "SE CGT",
+		"subestacao_B": "SE CHP",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 645,
+		"ponto_potencia_A": "BTECG_LTCHA_MW",
+		"ponto_potencia_B": "BTECH_LTCG2_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 138KV RBT/SLD",
+		"subestacao_A": "SE RBT",
+		"subestacao_B": "SE SLD",
+		"tensao_nominal": 138000,
+		"potencia_nominal": 409,
+		"ponto_potencia_A": "BTERT_UPGSLD_MW",
+		"ponto_potencia_B": "BTES2_UPGRIB_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 138KV SLD/USL",
+		"subestacao_A": "SE SLD",
+		"subestacao_B": "SE USL",
+		"tensao_nominal": 138000,
+		"potencia_nominal": 167,
+		"ponto_potencia_A": "BTES2_UPGUSL_MW",
+		"ponto_potencia_B": "BTES1_LTSLD_MW"
+	},
+	{
+		"concessao": "BTE",
+		"nome": "LT 138KV SLD/UEL",
+		"subestacao_A": "SE SLD",
+		"subestacao_B": "SE UEL",
+		"tensao_nominal": 138000,
+		"potencia_nominal": 139,
+		"ponto_potencia_A": "BTES2_UPGUEL_MW",
+		"ponto_potencia_B": "BTEEL_LTSLD_MW"
+	},
+        { 
+		"concessao": "JTE",
+		"nome": "LT 230KV SM/AQ C2",
+		"subestacao_A": "SE SM",
+		"subestacao_B": "SE AQ",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 247,
+		"ponto_potencia_A": "JTESM_SMBY_MP",
+		"ponto_potencia_B": "JTEAQ_AQDX_MP"
+	},
+	{   
+		"concessao": "JTE",
+		"nome": "LT 230KV AQ/JP C2",
+		"subestacao_A": "SE AQ",
+		"subestacao_B": "SE JP",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 247,
+		"ponto_potencia_A": "JTEAQ_AQEX_MP",
+		"ponto_potencia_B": "JTEJP_JPBX_MP"
+	},
+	{   
+		"concessao": "JTE",
+		"nome": "LT 230KV JP/PB C2",
+		"subestacao_A": "SE JP",
+		"subestacao_B": "SE PB",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 494,
+		"ponto_potencia_A": "JTEJP_JPHY_MP",
+		"ponto_potencia_B": "JTEPB_PBEX_MP"
+	},
+	{  
+		"concessao": "JTE",
+		"nome": "LT 230KV PB/VN C2",
+		"subestacao_A": "SE PB",
+		"subestacao_B": "SE VN",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 494,
+		"ponto_potencia_A": "JTEPB_PBEY_MP",
+		"ponto_potencia_B": "JTEVN_VNFX_MP"
+	},
+	{ 
+		"concessao": "JTE",
+		"nome": "LT 230KV VN/JU C1",
+		"subestacao_A": "SE VN",
+		"subestacao_B": "SE JU",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 494,
+		"ponto_potencia_A": "JTEVN_VNEY_MP",
+		"ponto_potencia_B": "JTEJU_JUBX_MP"
+	},
+	{ 
+		"concessao": "JTE",
+		"nome": "LT 230KV VN/JU C2",
+		"subestacao_A": "SE VN",
+		"subestacao_B": "SE JU",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 494,
+		"ponto_potencia_A": "JTEVN_VNFY_MP",
+		"ponto_potencia_B": "JTEJU_JUAX_MP"
+	},
+	{ 
+		"concessao": "CAU",
+		"nome": "LT 230KV CV/CN C2",
+		"subestacao_A": "SE CV",
+		"subestacao_B": "SE CN",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 318,
+		"ponto_potencia_A": "CAUCN_LTSCV_MW",
+		"ponto_potencia_B": "CAUCN_LTCVO2_MW"
+	},
+	{ 
+		"concessao": "CAU",
+		"nome": "LT 230KV UM/GA",
+		"subestacao_A": "SE UM",
+		"subestacao_B": "SE GA",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 318,
+		"ponto_potencia_A": "CAUUM_LTGUA_MW",
+		"ponto_potencia_B": "CAUGA_LTUMS_MW"
+	},
+	{ 
+		"concessao": "SITE",
+		"nome": "LT 230KV AUD/AUT C1",
+		"subestacao_A": "SE AUD",
+		"subestacao_B": "SE AUT",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 625,
+		"ponto_potencia_A": "SITAD_04C1_MW",
+		"ponto_potencia_B": "SITAT_04C1_MW"
+	},
+	{ 
+		"concessao": "SITE",
+		"nome": "LT 230KV AUD/AUT C2",
+		"subestacao_A": "SE AUD",
+		"subestacao_B": "SE AUT",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 625,
+		"ponto_potencia_A": "SITAD_04C2_MW",
+		"ponto_potencia_B": "SITAT_04C2_MW"
+	},
+	{
+                "concessao": "SITE",
+                "nome": "LT 500KV TID/PBT C1",
+                "subestacao_A": "SE TID",
+                "subestacao_B": "SE PBT",
+                "tensao_nominal": 500000,
+                "potencia_nominal": 2598 ,
+		"ponto_potencia_A": "SITTD_PBTTGD1_MW",
+                "ponto_potencia_B": "SITPT_PBTTGD1_MW"
+        },
+	{
+                "concessao": "SITE",
+                "nome": "LT 230KV IBD/TID C1",
+                "subestacao_A": "SE IBD",
+                "subestacao_B": "SE TID",
+                "tensao_nominal": 230000,
+                "potencia_nominal": 625,
+                "ponto_potencia_A": "SITID_04Z1_MW",
+                "ponto_potencia_B": "SITTD_IBDTGD1_MW"
+        },
+	{
+                "concessao": "SITE",
+                "nome": "LT 230KV IBD/TID C2",
+                "subestacao_A": "SE IBD",
+                "subestacao_B": "SE TID",
+                "tensao_nominal": 230000,
+                "potencia_nominal": 625,
+                "ponto_potencia_A": "SITID_04Z2_MW",
+                "ponto_potencia_B": "SITTD_IBDTGD2_MW"
+        },
+	{
+                "concessao": "SITE",
+                "nome": "LT 230KV PIR/TST C1",
+                "subestacao_A": "SE PIR",
+                "subestacao_B": "SE TST",
+                "tensao_nominal": 230000,
+                "potencia_nominal": 627,
+                "ponto_potencia_A": "SITPI_04L7_MW",
+                "ponto_potencia_B": "SITTT_04L7_MW"
+        },
+ 	{
+                "concessao": "SITE",
+                "nome": "LT 230KV IBD/PIR C2",
+                "subestacao_A": "SE IBD",
+                "subestacao_B": "SE PIR",
+                "tensao_nominal": 230000,
+                "potencia_nominal": 627,
+                "ponto_potencia_A": "SITID_04N2_MW",
+                "ponto_potencia_B": "SITPI_04N2_MW"
+        },
+	{
+                "concessao": "CPTE",
+                "nome": "LT 500KV LOR/CHP C1",
+                "subestacao_A": "SE LOR",
+                "subestacao_B": "SE CHP",
+                "tensao_nominal": 500000,
+                "potencia_nominal": 2727,
+                "ponto_potencia_A": "CPTLN_LTCHLN_MW",
+                "ponto_potencia_B": "CPTCH_LTCHLN_MW"
+        },
+	{
+                "concessao": "CPTE",
+                "nome": "LT 500KV TJP/LOR C1",
+                "subestacao_A": "SE TJP",
+                "subestacao_B": "SE LOR",
+                "tensao_nominal": 500000,
+                "potencia_nominal": 2727,
+                "ponto_potencia_A": "CPTTP_LTTPLN_MW",
+                "ponto_potencia_B": "CPTLN_LTTPLN_MW"
+        },
+	{
+		"concessao": "CTE",
+		"nome": "LT 500KV UHSS/IGU",
+		"subestacao_A": "SE UHSS",
+		"subestacao_B": "SE IGU",
+		"tensao_nominal": 500000,
+		"potencia_nominal": 2286,
+		"ponto_potencia_A": "CTESS_LTSSIG_UCD1_MW",
+		"ponto_potencia_B": "CTEIG_LTIGSS_9UCD1X_MW"
+		},
+	{
+		"concessao": "CTE",
+		"nome": "LT 230KV IGU/BCQ",
+		"subestacao_A": "SE IGU",
+		"subestacao_B": "SE BCQ",
+		"tensao_nominal": 230000,
+		"potencia_nominal": 817,
+		"ponto_potencia_A": "CTEIG_LTIGBC_7UCD1B_MW",
+		"ponto_potencia_B": "CTEBC_LTBCIG_UCD1_MW"
+	}
+]

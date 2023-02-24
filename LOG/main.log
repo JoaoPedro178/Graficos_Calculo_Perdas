@@ -1,0 +1,24 @@
+2022-12-26 12:51:50,732 - Script iniciado
+2022-12-26 12:51:50,732 - Modificando o delimitador do aruqivo: SRC/data-results-2022.csv
+2022-12-26 12:51:50,737 - Delimitador alterado com sucesso
+2022-12-26 12:51:50,737 - Inserindo cabeçalho ['Concessao', 'Nome', 'Subestacao_A', 'Subestacao_B', 'Hora', 'Valor_A', 'Valor_B'] no arquivo: TEMP/output.csv
+2022-12-26 12:51:50,748 - Cabecalho inserido com sucesso
+2022-12-26 12:51:50,748 - Script finalizado
+2022-12-26 16:09:10,500 - Script iniciado
+2022-12-26 16:09:10,500 - Modificando o delimitador do aruqivo: SRC/data-results-2022.csv
+2022-12-26 16:09:10,507 - Delimitador alterado com sucesso
+2022-12-26 16:09:10,507 - Inserindo cabeçalho ['Concessao', 'Nome', 'Subestacao_A', 'Subestacao_B', 'Hora', 'Valor_A', 'Valor_B'] no arquivo: TEMP/output.csv
+2022-12-26 16:09:10,519 - Cabecalho inserido com sucesso
+2022-12-26 16:09:10,519 - Script finalizado
+2022-12-26 16:09:57,805 - Script iniciado
+2022-12-26 16:09:57,805 - Modificando o delimitador do aruqivo: SRC/data-results-2022.csv
+2022-12-26 16:09:57,810 - Delimitador alterado com sucesso
+2022-12-26 16:09:57,810 - Inserindo cabeçalho ['Concessao', 'Nome', 'Subestacao_A', 'Subestacao_B', 'Hora', 'Valor_A', 'Valor_B'] no arquivo: TEMP/output.csv
+2022-12-26 16:09:57,821 - Cabecalho inserido com sucesso
+2022-12-26 16:09:57,821 - Script finalizado
+2022-12-27 09:58:26,419 - Script iniciado
+2022-12-27 09:58:26,419 - Modificando o delimitador do aruqivo: SRC/data-results-2022.csv
+2022-12-27 09:58:26,425 - Delimitador alterado com sucesso
+2022-12-27 09:58:26,425 - Inserindo cabeçalho ['Concessao', 'Nome', 'Subestacao_A', 'Subestacao_B', 'Hora', 'Valor_A', 'Valor_B'] no arquivo: TEMP/output.csv
+2022-12-27 09:58:26,438 - Cabecalho inserido com sucesso
+2022-12-27 09:58:26,438 - Script finalizado
